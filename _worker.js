@@ -3,12 +3,12 @@ import { connect } from "cloudflare:sockets";
 // import { Buffer } from "node:buffer";
 
 // Variables
-const rootDomain = "cloudflare4-aa5.workers.dev"; // Ganti dengan domain utama kalian
+const rootDomain = "zdnprjkt.my.id"; // Ganti dengan domain utama kalian
 const serviceName = "vpn"; // Ganti dengan nama workers kalian
-const apiKey = "LV1vzZKvETNWxAojtjJq44ywzcdD1_hHGBjCZuew"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
-const apiEmail = "cloudflare4@zdnprjkt.my.id"; // Ganti dengan email yang kalian gunakan
-const accountID = "aa54b8426d5340601f3b1b8462d56a43"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
-const zoneID = "8170ffec0fe520afe77b8fd939a60b5f"; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
+const apiKey = "krQPAjmOzRBAmx30EcaEsgjZn4KzOHriXQ6lOPpS"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
+const apiEmail = "Lynxprjkt1@qzueos.com"; // Ganti dengan email yang kalian gunakan
+const accountID = "b48b21ea85222aa7c6d0e94e78b608a9"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
+const zoneID = "036fb747ed76534f54c8fc659efa46bf"; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 let isApiReady = false;
 let proxyIP = "https://raw.githubusercontent.com/FoolVPN-ID/Nautica/refs/heads/main/proxyList.txt";
 let cachedProxyList = [];
