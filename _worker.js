@@ -4,7 +4,7 @@ import { connect } from "cloudflare:sockets";
 
 // Variables
 const rootDomain = "zdnprjkt.my.id"; // Ganti dengan domain utama kalian
-const serviceName = "nautica"; // Ganti dengan nama workers kalian
+const serviceName = "vpn"; // Ganti dengan nama workers kalian
 const apiKey = "LV1vzZKvETNWxAojtjJq44ywzcdD1_hHGBjCZuew"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "cloudflare4@zdnprjkt.my.id"; // Ganti dengan email yang kalian gunakan
 const accountID = "aa54b8426d5340601f3b1b8462d56a43"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
