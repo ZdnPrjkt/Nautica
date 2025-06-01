@@ -3,7 +3,7 @@ import { connect } from "cloudflare:sockets";
 // import { Buffer } from "node:buffer";
 
 // Variables
-const rootDomain = "zdnprjkt.my.id"; // Ganti dengan domain utama kalian
+const rootDomain = "lynxprjkt1.workers.dev"; // Ganti dengan domain utama kalian
 const serviceName = "vpn"; // Ganti dengan nama workers kalian
 const apiKey = "krQPAjmOzRBAmx30EcaEsgjZn4KzOHriXQ6lOPpS"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "Lynxprjkt1@qzueos.com"; // Ganti dengan email yang kalian gunakan
